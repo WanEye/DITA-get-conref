@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE glossgroup PUBLIC "-//OASIS//DTD DITA Glossary Group//EN" "glossgroup.dtd">
+<glossgroup id="glossary">
+    <title>Glossary of terms</title>
+    <glossentry id="ddl">
+        <glossterm><ph conref="../chapter1.dita#Chapter1/HAc"/></glossterm>
+        <glossdef>Weak organic acid.</glossdef>
+        <glossBody>
+            <glossAlt>
+                <glossAcronym><term id="HAc">HAc</term></glossAcronym>
+            </glossAlt>
+        </glossBody>
+    </glossentry>
+    <glossentry id="id_usg_xcm_qdb">
+        <glossterm><ph conref="../chapter1.dita#Chapter1/ḦCL"/></glossterm>
+        <glossdef>Strong inorganic acid.</glossdef>
+        <glossBody>
+            <glossAlt>
+                <glossAcronym><term id="HCl">HCl</term></glossAcronym>
+            </glossAlt>
+        </glossBody>
+    </glossentry>
+</glossgroup>

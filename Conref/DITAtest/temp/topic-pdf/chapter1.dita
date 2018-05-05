@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /home/gunang/eclipse-workspace-DITA_Conref/Conref/DITAtest/temp/topic-pdf?><?workdir-uri file:/home/gunang/eclipse-workspace-DITA_Conref/Conref/DITAtest/temp/topic-pdf/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><concept xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " id="Chapter1" xtrc="concept:1;4:24" xtrf="file:/home/gunang/eclipse-workspace-DITA_Conref/Conref/DITAtest/chapter1.dita">
+  <title class="- topic/title " xtrc="title:1;5:10" xtrf="file:/home/gunang/eclipse-workspace-DITA_Conref/Conref/DITAtest/chapter1.dita">Chapter 1</title>
+
+  <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;7:12" xtrf="file:/home/gunang/eclipse-workspace-DITA_Conref/Conref/DITAtest/chapter1.dita">
+    <p class="- topic/p " xtrc="p:1;8:8" xtrf="file:/home/gunang/eclipse-workspace-DITA_Conref/Conref/DITAtest/chapter1.dita"><ph class="- topic/ph " id="ḦCL" xtrc="ph:1;8:21" xtrf="file:/home/gunang/eclipse-workspace-DITA_Conref/Conref/DITAtest/chapter1.dita">Hydrochloric acid</ph>
+      <term class="- topic/term " xtrc="term:2;19:46" xtrf="file:/home/gunang/eclipse-workspace-DITA_Conref/Conref/DITAtest/glossary/glossary.dita">HCl</term> is a strong acid.</p>
+
+    <p class="- topic/p " xtrc="p:2;11:8" xtrf="file:/home/gunang/eclipse-workspace-DITA_Conref/Conref/DITAtest/chapter1.dita">See <xref class="- topic/xref " href="figures.dita#figures/fig1" xtrc="xref:1;11:51" xtrf="file:/home/gunang/eclipse-workspace-DITA_Conref/Conref/DITAtest/chapter1.dita" type="fig"><?ditaot usertext?>figure 1</xref>.<data class="- topic/data " xtrc="data:1;9:29" xtrf="file:/home/gunang/eclipse-workspace-DITA_Conref/Conref/DITAtest/acids.ditamap"/></p>
+
+    <p class="- topic/p " xtrc="p:3;14:9" xtrf="file:/home/gunang/eclipse-workspace-DITA_Conref/Conref/DITAtest/chapter1.dita"/>
+
+    <p class="- topic/p " xtrc="p:4;16:8" xtrf="file:/home/gunang/eclipse-workspace-DITA_Conref/Conref/DITAtest/chapter1.dita"><ph class="- topic/ph " id="HAc" xtrc="ph:2;16:21" xtrf="file:/home/gunang/eclipse-workspace-DITA_Conref/Conref/DITAtest/chapter1.dita">Acetic acid</ph>
+      <term class="- topic/term " xtrc="term:1;10:46" xtrf="file:/home/gunang/eclipse-workspace-DITA_Conref/Conref/DITAtest/glossary/glossary.dita">HAc</term> is a weak acid.</p>
+
+    <p class="- topic/p " xtrc="p:5;19:8" xtrf="file:/home/gunang/eclipse-workspace-DITA_Conref/Conref/DITAtest/chapter1.dita">See <xref class="- topic/xref " href="figures.dita#figures/fig2" xtrc="xref:2;19:51" xtrf="file:/home/gunang/eclipse-workspace-DITA_Conref/Conref/DITAtest/chapter1.dita" type="fig"><?ditaot usertext?>figure 2</xref>.</p>
+  </conbody>
+</concept>
