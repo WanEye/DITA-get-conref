@@ -8,4 +8,4 @@ Perl code that puts corresponding IDs and conrefs from a DITA project in a file.
 4. Look for conref.out in the root folder of your DITA project.
 
 ### Tip
-Open `conref.out` in a spreadsheet such as LibreOffice Calc.
+Open `conref.csv` in a spreadsheet such as LibreOffice Calc.
