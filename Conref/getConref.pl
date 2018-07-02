@@ -26,7 +26,7 @@ sub initProg{
 
     find( \&getFileNames, $localdir);
 
-    @g_DITAfiles=grep(/.dita/, @g_files);
+    @g_DITAfiles=grep(/\.dita$/, @g_files);
     foreach $dita (@g_DITAfiles){
         print 'Files: ';
         print "$dita\n";}
@@ -95,7 +95,8 @@ sub processConref{
 
 sub finProg{
 	close OUTPUT;
-	print "The End"
+	print "Output in conref.csv  \n";
+	print "The End \n";
 }
 
 # === MAIN === 
